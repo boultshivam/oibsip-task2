@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+background-size: cover;
+}
+p{
+    color: rgb(23, 207, 78);
+    font-size: 120%;
+}
+p:hover{
+    color: gold;
+}
+h1{
+    color: rgb(194, 41, 143);
+    text-align: center;
+    text-decoration: underline;
+}
+h1:hover{
+    font-size: 60px;
+}
+h2{
+    color: rgb(231, 91, 10);
+    text-align: right;
+}
+sub{
+    color: azure;
+}
+article{
+    color: aqua;
+    text-align: center;
+}
+a{
+    color: rgb(243, 12, 24);
+}
+h3{
+    color:blanchedalmond;
+    font-size: large;
+}
+.first{
+    text-align: left;
+}
+.second{
+    text-align: left;
+}
+.third{
+    text-align: left;
+}
+img{
+    opacity: 32;
+}
